@@ -4,3 +4,4 @@ python 3.x
 jupyter-core 6.0.3 (optional)
 plotly 4.6.0 
 pandas 1.0.3
+tkinter 2.4
